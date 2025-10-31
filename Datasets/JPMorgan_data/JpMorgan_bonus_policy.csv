@@ -1,0 +1,11 @@
+policy_id,department,min_years,max_bonus,bonus_frequency,region
+BP01,Marketing,1,2000,Annual,CA
+BP02,Finance,2,2500,Annual,AK
+BP03,HR,1,2200,Quarterly,LA
+BP04,Accounts,2,1800,Annual,CA
+BP05,Sales,1,3000,Quarterly,CA
+BP06,Admin,1,1200,Annual,LA
+BP07,IT,1,2500,Quarterly,CA
+BP08,Purchasing,2,1500,Annual,CA
+BP09,Legal,3,1100,Annual,LA
+BP10,Logistics,1,1600,Annual,AK

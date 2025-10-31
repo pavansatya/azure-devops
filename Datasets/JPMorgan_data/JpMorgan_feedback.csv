@@ -1,0 +1,11 @@
+feedback_id,employee_id,date,feedback_score,feedback_comments
+1,1000,2024-06-29,9,Great presentation skills
+2,1002,2024-06-29,7,Needs improvement in deadlines
+3,1005,2024-06-29,8,Positive team spirit
+4,1003,2024-06-29,6,Average punctuality
+5,1006,2024-06-29,9,Excellent sales numbers
+6,1004,2024-06-29,7,Responsive to change
+7,1007,2024-06-29,8,Strong analytical skills
+8,1008,2024-06-29,5,Should work on collaboration
+9,1001,2024-06-29,8,Timely financial reports
+10,1009,2024-06-29,7,Can take more leadership

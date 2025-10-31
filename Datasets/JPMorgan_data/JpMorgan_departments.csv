@@ -1,0 +1,11 @@
+department_id,department_name,head_of_department,budget,state,employee_count
+D01,Marketing,Richard Morse,1200000,CA,50
+D02,Finance,Anne Kline,900000,AK,35
+D03,HR,Melissa Dalton,800000,LA,25
+D04,Accounts,Brenda Watts,1000000,CA,40
+D05,Purchasing,Steve Harris,750000,CA,15
+D06,Sales,David Swift,1350000,CA,60
+D07,Legal,Michael Bond,500000,LA,10
+D08,IT,Jessica Law,1550000,CA,70
+D09,Logistics,Jeff Curry,600000,AK,20
+D10,Admin,Donna King,400000,LA,12
