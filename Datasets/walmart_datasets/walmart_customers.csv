@@ -1,0 +1,26 @@
+customer_id,customer_name,loyalty_level,city,state
+C204,Anna Smith,Gold,New York,NY
+C205,Bob Johnson,Silver,Los Angeles,CA
+C206,Carla White,Bronze,Chicago,IL
+C207,David Lee,,Dallas,TX
+C208,Eva Green,Gold,,FL
+C209,Frank Brown,Silver,Houston,TX
+C210,Gina Blue,Gold,Phoenix,AZ
+C211,Hank Black,Bronze,Philadelphia,PA
+C212,Ian Red,,San Antonio,TX
+C213,Jane Grey,Silver,San Diego,CA
+C214,Kim Tan,Gold,San Jose,CA
+C215,Lisa Cyan,Silver,,NV
+C216,Mark Lime,Bronze,Jacksonville,FL
+C217,Nina Orange,,Columbus,OH
+C218,Oscar Violet,Gold,Austin,TX
+C219,Paul Indigo,Silver,Fort Worth,TX
+C220,Quinn Pink,Bronze,Charlotte,NC
+C221,Rita Teal,Gold,San Francisco,CA
+C222,Sam Amber,Silver,Indianapolis,IN
+C223,Tina Maroon,Bronze,Seattle,WA
+C224,Umar Olive,Gold,Denver,CO
+C225,Victor Mint,Silver,Washington,DC
+C226,Willa Rose,Bronze,El Paso,TX
+C227,Xena Blue,,Boston,MA
+C228,Yara Gold,Silver,Nashville,TN

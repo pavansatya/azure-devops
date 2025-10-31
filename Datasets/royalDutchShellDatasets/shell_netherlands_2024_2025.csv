@@ -1,0 +1,51 @@
+record_id,country,year,product,volume_bbl,revenue_usd,site_id,region
+RNLD01,Netherlands,2024,Petrol,23000,140000,NL101,North
+RNLD02,Netherlands,2024,Diesel,18000,118000,NL102,West
+RNLD03,Netherlands,2024,Jet Fuel,7000,49000,NL103,South
+RNLD04,Netherlands,2024,Petrol,21000,127000,NL104,East
+RNLD05,Netherlands,2024,Diesel,16000,105000,NL105,North
+RNLD06,Netherlands,2024,Jet Fuel,7500,52000,NL106,West
+RNLD07,Netherlands,2024,Petrol,22500,133000,NL107,South
+RNLD08,Netherlands,2024,Diesel,15000,99000,NL108,East
+RNLD09,Netherlands,2024,Jet Fuel,8000,54000,NL109,North
+RNLD10,Netherlands,2024,Petrol,24000,144000,NL110,West
+RNLD11,Netherlands,2024,Diesel,17000,110000,NL111,South
+RNLD12,Netherlands,2024,Jet Fuel,7200,48000,NL112,East
+RNLD13,Netherlands,2024,Petrol,21500,129000,NL113,North
+RNLD14,Netherlands,2024,Diesel,15500,100000,NL114,West
+RNLD15,Netherlands,2024,Jet Fuel,7300,50000,,South
+RNLD16,Netherlands,2024,Petrol,23500,139000,NL116,East
+RNLD17,Netherlands,2024,Diesel,16500,106000,NL117,North
+RNLD18,Netherlands,2024,Jet Fuel,7100,47000,NL118,West
+RNLD19,Netherlands,2024,Petrol,24500,148000,NL119,South
+RNLD20,Netherlands,2024,Diesel,17500,112000,NL120,East
+RNLD21,Netherlands,2025,Jet Fuel,7800,53000,NL121,North
+RNLD22,Netherlands,2025,Petrol,22500,133000,NL122,West
+RNLD23,Netherlands,2025,Diesel,15000,99000,NL123,South
+RNLD24,Netherlands,2025,Jet Fuel,7600,51000,NL124,East
+RNLD25,Netherlands,2025,Petrol,21000,127000,NL125,North
+RNLD26,Netherlands,2025,Diesel,16000,105000,NL126,West
+RNLD27,Netherlands,2025,Jet Fuel,7000,47000,NL127,South
+RNLD28,Netherlands,2025,Petrol,23500,139000,,East
+RNLD29,Netherlands,2025,Diesel,16500,106000,NL129,North
+RNLD30,Netherlands,2025,Jet Fuel,7500,52000,NL130,West
+RNLD31,Netherlands,2025,Petrol,21500,129000,NL131,South
+RNLD32,Netherlands,2025,Diesel,15500,100000,NL132,East
+RNLD33,Netherlands,2025,Jet Fuel,7200,48000,NL133,North
+RNLD34,Netherlands,2025,Petrol,24500,148000,NL134,West
+RNLD35,Netherlands,2025,Diesel,17500,112000,NL135,South
+RNLD36,Netherlands,2025,Jet Fuel,7800,53000,NL136,East
+RNLD37,Netherlands,2025,Petrol,22500,133000,NL137,North
+RNLD38,Netherlands,2025,Diesel,15000,99000,NL138,West
+RNLD39,Netherlands,2025,Jet Fuel,8000,54000,NL139,South
+RNLD40,Netherlands,2025,Petrol,24000,144000,NL140,East
+RNLD41,Netherlands,2025,Diesel,17000,110000,NL141,North
+RNLD42,Netherlands,2025,Jet Fuel,7200,48000,NL142,West
+RNLD43,Netherlands,2025,Petrol,21500,129000,NL143,South
+RNLD44,Netherlands,2025,Diesel,15500,100000,NL144,East
+RNLD45,Netherlands,2025,Jet Fuel,7300,50000,NL145,North
+RNLD46,Netherlands,2025,Petrol,23500,139000,NL146,West
+RNLD47,Netherlands,2025,Diesel,16500,106000,NL147,South
+RNLD48,Netherlands,2025,Jet Fuel,7100,47000,NL148,East
+RNLD49,Netherlands,2025,Petrol,24500,148000,NL149,North
+RNLD50,Netherlands,2025,Diesel,17500,112000,NL150,West
