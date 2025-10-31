@@ -1,0 +1,501 @@
+BookingID,CustomerName,Email,CarModel,RentalStartDate,RentalEndDate,RentalDays,PickupLocation,DropoffLocation,TotalCost
+CR10000,Casey Ellis,casey.ellis@sample.net,Honda Civic,7/14/2023,7/25/2023,11,Chicago,Chicago,958.99
+CR10001,Casey Lane,casey.lane@sample.net,BMW 3 Series,11/26/2023,11/29/2023,3,Houston,San Francisco,168.28
+CR10002,Quinn Ellis,quinn.ellis@sample.net,Kia Forte,2/19/2023,2/22/2023,3,New York,Phoenix,178.68
+CR10003,Morgan Blake,morgan.blake@example.com,Kia Forte,2/19/2023,2/22/2023,3,San Diego,San Diego,188.75
+CR10004,Cameron Hunter,cameron.hunter@example.com,Honda Civic,2/27/2023,3/9/2023,10,Houston,Houston,779.33
+CR10005,Jordan Rowe,jordan.rowe@mail.com,Kia Forte,3/26/2023,3/29/2023,3,Phoenix,Phoenix,244.92
+CR10006,Casey Ellis,casey.ellis@sample.net,Chevrolet Malibu,6/4/2023,6/8/2023,4,San Francisco,Dallas,229.62
+CR10007,Alex Reed,alex.reed@sample.net,Toyota Corolla,2/12/2023,2/18/2023,6,San Francisco,Houston,507.02
+CR10008,Jamie Lane,jamie.lane@sample.net,Hyundai Elantra,3/29/2023,4/1/2023,3,Chicago,Los Angeles,94.09
+CR10009,Quinn Foster,quinn.foster@example.com,BMW 3 Series,9/10/2023,9/21/2023,11,Dallas,San Francisco,605.16
+CR10010,Alex Lane,alex.lane@mail.com,Audi A4,4/29/2023,5/5/2023,6,Dallas,Dallas,466.81
+CR10011,Jordan Blake,jordan.blake@sample.net,Honda Civic,7/13/2023,7/22/2023,9,Chicago,Chicago,505.28
+CR10012,Jamie Foster,jamie.foster@test.org,BMW 3 Series,2/25/2023,3/10/2023,13,San Diego,Phoenix,811.21
+CR10013,Jordan Hunter,jordan.hunter@sample.net,Audi A4,7/30/2023,8/5/2023,6,Los Angeles,Phoenix,234.19
+CR10014,Quinn Ellis,quinn.ellis@example.com,Honda Civic,4/14/2023,4/17/2023,3,New York,Phoenix,168.04
+CR10015,Skylar Rowe,skylar.rowe@sample.net,Kia Forte,6/29/2023,7/12/2023,13,Dallas,Houston,458.84
+CR10016,Quinn Reed,quinn.reed@example.com,Honda Civic,2/16/2023,2/26/2023,10,San Francisco,San Diego,502.04
+CR10017,Drew Blake,drew.blake@example.com,Honda Civic,10/11/2023,10/24/2023,13,Phoenix,San Francisco,702.77
+CR10018,Quinn Foster,quinn.foster@sample.net,Hyundai Elantra,6/4/2023,6/9/2023,5,San Francisco,Houston,229.07
+CR10019,Morgan Brooks,morgan.brooks@sample.net,Hyundai Elantra,9/9/2023,9/14/2023,5,Houston,Chicago,237.14
+CR10020,Alex Brooks,alex.brooks@example.com,Ford Focus,2/8/2023,2/16/2023,8,Phoenix,Phoenix,788.54
+CR10021,Drew Lane,drew.lane@mail.com,Kia Forte,5/23/2023,5/29/2023,6,Phoenix,New York,292.52
+CR10022,Morgan Foster,morgan.foster@sample.net,BMW 3 Series,8/27/2023,8/28/2023,1,Chicago,Phoenix,82.67
+CR10023,Drew Lane,drew.lane@mail.com,Audi A4,8/6/2023,8/12/2023,6,Dallas,New York,268.68
+CR10024,Cameron Shaw,cameron.shaw@example.com,Audi A4,1/9/2023,1/19/2023,10,Chicago,Chicago,845.33
+CR10025,Casey Shaw,casey.shaw@test.org,Toyota Corolla,2/20/2023,2/25/2023,5,San Francisco,Los Angeles,410.11
+CR10026,Morgan Blake,morgan.blake@mail.com,Hyundai Elantra,4/7/2023,4/11/2023,4,Los Angeles,San Diego,325.34
+CR10027,Jordan Blake,jordan.blake@example.com,Toyota Corolla,10/4/2023,10/10/2023,6,Chicago,San Francisco,402.79
+CR10028,Casey Lane,casey.lane@mail.com,Ford Focus,4/28/2023,4/29/2023,1,Phoenix,Dallas,82.13
+CR10029,Taylor Brooks,taylor.brooks@sample.net,Audi A4,7/24/2023,8/6/2023,13,New York,Phoenix,1194.01
+CR10030,Cameron Shaw,cameron.shaw@sample.net,Toyota Corolla,6/19/2023,6/20/2023,1,Houston,Phoenix,92.22
+CR10031,Cameron Fox,cameron.fox@sample.net,Toyota Corolla,9/15/2023,9/20/2023,5,New York,Phoenix,425.21
+CR10032,Quinn Brooks,quinn.brooks@example.com,Hyundai Elantra,3/28/2023,3/29/2023,1,Houston,Dallas,39.2
+CR10033,Jamie Reed,jamie.reed@example.com,Chevrolet Malibu,6/17/2023,6/26/2023,9,Dallas,New York,573.72
+CR10034,Taylor Rowe,taylor.rowe@example.com,Hyundai Elantra,5/23/2023,5/28/2023,5,San Francisco,Los Angeles,215.2
+CR10035,Drew Rowe,drew.rowe@example.com,Kia Forte,3/8/2023,3/17/2023,9,Chicago,San Diego,505.68
+CR10036,Quinn Brooks,quinn.brooks@example.com,BMW 3 Series,11/30/2023,12/10/2023,10,New York,Phoenix,800.33
+CR10037,Alex Lane,alex.lane@test.org,Kia Forte,12/11/2023,12/18/2023,7,Chicago,Dallas,534.59
+CR10038,Skylar Foster,skylar.foster@mail.com,Honda Civic,6/21/2023,6/26/2023,5,Dallas,Houston,461.68
+CR10039,Quinn Ellis,quinn.ellis@mail.com,Ford Focus,10/27/2023,11/5/2023,9,Houston,Houston,695.18
+CR10040,Jordan Ellis,jordan.ellis@example.com,Hyundai Elantra,2/18/2023,3/1/2023,11,Chicago,San Francisco,632.14
+CR10041,Casey Blake,casey.blake@test.org,BMW 3 Series,9/10/2023,9/16/2023,6,Phoenix,Phoenix,565.53
+CR10042,Quinn Lane,quinn.lane@example.com,Kia Forte,9/6/2023,9/15/2023,9,Dallas,Los Angeles,689.61
+CR10043,Casey Hunter,casey.hunter@sample.net,Hyundai Elantra,2/17/2023,2/20/2023,3,San Diego,New York,127.08
+CR10044,Morgan Fox,morgan.fox@example.com,Ford Focus,3/9/2023,3/13/2023,4,San Diego,San Diego,391.88
+CR10045,Morgan Blake,morgan.blake@sample.net,Ford Focus,7/11/2023,7/18/2023,7,New York,Houston,489.47
+CR10046,Cameron Ellis,cameron.ellis@mail.com,Hyundai Elantra,6/1/2023,6/7/2023,6,Chicago,Los Angeles,414.22
+CR10047,Alex Fox,alex.fox@example.com,Audi A4,11/17/2023,11/18/2023,1,Dallas,San Diego,77.5
+CR10048,Taylor Blake,taylor.blake@sample.net,Hyundai Elantra,1/14/2023,1/25/2023,11,Houston,Chicago,858.27
+CR10049,Quinn Blake,quinn.blake@mail.com,Kia Forte,8/28/2023,9/7/2023,10,Houston,Houston,757.16
+CR10050,Drew Brooks,drew.brooks@test.org,Hyundai Elantra,2/15/2023,2/18/2023,3,San Francisco,San Francisco,267.68
+CR10051,Morgan Blake,morgan.blake@sample.net,Honda Civic,10/15/2023,10/20/2023,5,San Francisco,Dallas,320.2
+CR10052,Taylor Ellis,taylor.ellis@test.org,Hyundai Elantra,10/9/2023,10/23/2023,14,Chicago,San Francisco,432.72
+CR10053,Morgan Foster,morgan.foster@sample.net,Toyota Corolla,3/2/2023,3/12/2023,10,Houston,Phoenix,643.62
+CR10054,Morgan Ellis,morgan.ellis@example.com,Toyota Corolla,7/8/2023,7/11/2023,3,Los Angeles,San Francisco,183.73
+CR10055,Drew Ellis,drew.ellis@test.org,Ford Focus,8/1/2023,8/7/2023,6,San Diego,New York,464.03
+CR10056,Taylor Shaw,taylor.shaw@mail.com,Ford Focus,7/26/2023,8/7/2023,12,Los Angeles,Phoenix,558.82
+CR10057,Casey Ellis,casey.ellis@example.com,Hyundai Elantra,4/5/2023,4/14/2023,9,San Francisco,San Francisco,799.74
+CR10058,Cameron Rowe,cameron.rowe@example.com,Honda Civic,6/24/2023,7/3/2023,9,San Francisco,New York,296.15
+CR10059,Alex Foster,alex.foster@mail.com,BMW 3 Series,12/20/2023,12/31/2023,11,San Diego,San Diego,836.94
+CR10060,Jamie Rowe,jamie.rowe@sample.net,BMW 3 Series,11/20/2023,12/1/2023,11,Houston,Phoenix,943.8
+CR10061,Jordan Hunter,jordan.hunter@test.org,Kia Forte,10/6/2023,10/18/2023,12,New York,New York,529.08
+CR10062,Casey Rowe,casey.rowe@mail.com,Toyota Corolla,8/23/2023,8/31/2023,8,Los Angeles,Chicago,795
+CR10063,Quinn Ellis,quinn.ellis@mail.com,Hyundai Elantra,10/4/2023,10/15/2023,11,San Francisco,San Francisco,653.74
+CR10064,Quinn Reed,quinn.reed@example.com,Kia Forte,10/20/2023,10/22/2023,2,Dallas,Phoenix,135
+CR10065,Alex Ellis,alex.ellis@mail.com,Hyundai Elantra,12/6/2023,12/15/2023,9,Los Angeles,San Francisco,837.22
+CR10066,Jordan Ellis,jordan.ellis@sample.net,Kia Forte,3/23/2023,3/29/2023,6,Houston,San Francisco,182.83
+CR10067,Cameron Ellis,cameron.ellis@sample.net,BMW 3 Series,11/17/2023,11/20/2023,3,Houston,Phoenix,165.35
+CR10068,Cameron Rowe,cameron.rowe@sample.net,Kia Forte,4/10/2023,4/22/2023,12,Dallas,New York,693.65
+CR10069,Casey Shaw,casey.shaw@example.com,Honda Civic,11/30/2023,12/6/2023,6,Chicago,Los Angeles,302.35
+CR10070,Quinn Lane,quinn.lane@sample.net,Toyota Corolla,9/14/2023,9/20/2023,6,Phoenix,Houston,452.73
+CR10071,Drew Brooks,drew.brooks@test.org,Toyota Corolla,1/6/2023,1/9/2023,3,San Francisco,San Diego,248
+CR10072,Skylar Brooks,skylar.brooks@mail.com,BMW 3 Series,7/7/2023,7/16/2023,9,San Diego,New York,827.4
+CR10073,Taylor Fox,taylor.fox@mail.com,BMW 3 Series,7/31/2023,8/10/2023,10,San Diego,San Diego,574.55
+CR10074,Jamie Lane,jamie.lane@example.com,Audi A4,9/2/2023,9/10/2023,8,Los Angeles,San Francisco,306.25
+CR10075,Quinn Rowe,quinn.rowe@example.com,Audi A4,7/4/2023,7/11/2023,7,Chicago,San Diego,536.14
+CR10076,Morgan Rowe,morgan.rowe@example.com,Honda Civic,4/6/2023,4/12/2023,6,New York,Los Angeles,585.27
+CR10077,Jordan Ellis,jordan.ellis@sample.net,BMW 3 Series,10/28/2023,10/29/2023,1,Los Angeles,San Diego,88.48
+CR10078,Drew Fox,drew.fox@test.org,Ford Focus,5/26/2023,6/8/2023,13,Phoenix,Houston,620.63
+CR10079,Taylor Foster,taylor.foster@example.com,Ford Focus,11/11/2023,11/17/2023,6,San Diego,San Diego,268.99
+CR10080,Skylar Blake,skylar.blake@test.org,Chevrolet Malibu,1/28/2023,2/6/2023,9,Chicago,San Diego,874.63
+CR10081,Taylor Ellis,taylor.ellis@example.com,BMW 3 Series,1/4/2023,1/15/2023,11,San Diego,San Diego,428.1
+CR10082,Casey Fox,casey.fox@mail.com,Ford Focus,6/18/2023,6/21/2023,3,San Diego,Dallas,149.98
+CR10083,Quinn Shaw,quinn.shaw@mail.com,Hyundai Elantra,12/21/2023,12/29/2023,8,Los Angeles,San Francisco,660.15
+CR10084,Quinn Ellis,quinn.ellis@test.org,Audi A4,6/7/2023,6/17/2023,10,San Francisco,Phoenix,558.26
+CR10085,Jordan Foster,jordan.foster@example.com,Hyundai Elantra,3/17/2023,3/23/2023,6,San Diego,New York,248.43
+CR10086,Alex Rowe,alex.rowe@mail.com,Chevrolet Malibu,10/28/2023,11/11/2023,14,San Francisco,Houston,1253.3
+CR10087,Casey Shaw,casey.shaw@sample.net,Ford Focus,5/20/2023,6/1/2023,12,San Francisco,Houston,1128.93
+CR10088,Jamie Shaw,jamie.shaw@sample.net,Audi A4,4/16/2023,4/27/2023,11,San Francisco,Houston,850.39
+CR10089,Jordan Reed,jordan.reed@sample.net,Ford Focus,6/23/2023,7/4/2023,11,San Francisco,New York,573.5
+CR10090,Alex Rowe,alex.rowe@test.org,Toyota Corolla,2/10/2023,2/11/2023,1,Houston,New York,60.82
+CR10091,Skylar Brooks,skylar.brooks@mail.com,Honda Civic,4/20/2023,4/30/2023,10,Houston,New York,693.19
+CR10092,Taylor Blake,taylor.blake@mail.com,Toyota Corolla,10/28/2023,11/1/2023,4,New York,San Francisco,242.12
+CR10093,Alex Shaw,alex.shaw@test.org,Kia Forte,5/21/2023,5/23/2023,2,San Francisco,San Francisco,154.23
+CR10094,Alex Brooks,alex.brooks@example.com,Hyundai Elantra,10/2/2023,10/16/2023,14,Chicago,San Diego,1395.8
+CR10095,Skylar Foster,skylar.foster@mail.com,Chevrolet Malibu,2/13/2023,2/27/2023,14,Chicago,Los Angeles,963.67
+CR10096,Casey Rowe,casey.rowe@test.org,Kia Forte,4/16/2023,4/26/2023,10,San Francisco,San Francisco,593.3
+CR10097,Taylor Shaw,taylor.shaw@mail.com,Audi A4,10/5/2023,10/8/2023,3,Houston,Dallas,223.68
+CR10098,Taylor Reed,taylor.reed@example.com,Honda Civic,2/11/2023,2/19/2023,8,San Francisco,San Diego,504.21
+CR10099,Jamie Reed,jamie.reed@sample.net,Kia Forte,3/19/2023,3/25/2023,6,Houston,Phoenix,459.87
+CR10100,Jordan Fox,jordan.fox@test.org,BMW 3 Series,7/12/2023,7/21/2023,9,San Diego,San Diego,408.94
+CR10101,Casey Blake,casey.blake@sample.net,BMW 3 Series,8/29/2023,9/1/2023,3,New York,San Francisco,233.54
+CR10102,Skylar Foster,skylar.foster@mail.com,Ford Focus,1/22/2023,2/3/2023,12,San Francisco,New York,1079.75
+CR10103,Jamie Brooks,jamie.brooks@test.org,Audi A4,10/1/2023,10/11/2023,10,Houston,New York,792.47
+CR10104,Jordan Shaw,jordan.shaw@mail.com,Hyundai Elantra,8/5/2023,8/8/2023,3,Los Angeles,San Francisco,171.36
+CR10105,Taylor Fox,taylor.fox@mail.com,Hyundai Elantra,1/9/2023,1/10/2023,1,Phoenix,New York,49.95
+CR10106,Cameron Fox,cameron.fox@test.org,Ford Focus,11/2/2023,11/16/2023,14,New York,San Diego,1114.67
+CR10107,Cameron Blake,cameron.blake@example.com,Toyota Corolla,3/19/2023,3/31/2023,12,Los Angeles,Phoenix,672.53
+CR10108,Alex Rowe,alex.rowe@example.com,Toyota Corolla,6/19/2023,6/30/2023,11,New York,Chicago,1038.38
+CR10109,Taylor Fox,taylor.fox@example.com,Ford Focus,9/8/2023,9/20/2023,12,Houston,San Diego,551.57
+CR10110,Jamie Foster,jamie.foster@test.org,Honda Civic,12/4/2023,12/16/2023,12,San Diego,San Diego,974.51
+CR10111,Taylor Hunter,taylor.hunter@test.org,Hyundai Elantra,5/27/2023,6/10/2023,14,Los Angeles,San Diego,804.01
+CR10112,Quinn Lane,quinn.lane@sample.net,Kia Forte,6/12/2023,6/14/2023,2,Phoenix,San Diego,128.87
+CR10113,Taylor Brooks,taylor.brooks@test.org,Toyota Corolla,1/14/2023,1/20/2023,6,New York,New York,396.19
+CR10114,Drew Shaw,drew.shaw@test.org,BMW 3 Series,12/1/2023,12/9/2023,8,Chicago,New York,392.56
+CR10115,Alex Foster,alex.foster@mail.com,Honda Civic,10/12/2023,10/23/2023,11,Chicago,Chicago,534.59
+CR10116,Alex Rowe,alex.rowe@example.com,Kia Forte,6/28/2023,7/7/2023,9,San Francisco,San Diego,370.71
+CR10117,Skylar Foster,skylar.foster@mail.com,Toyota Corolla,11/15/2023,11/19/2023,4,Houston,San Diego,285.2
+CR10118,Drew Blake,drew.blake@mail.com,BMW 3 Series,1/7/2023,1/18/2023,11,New York,Los Angeles,510.71
+CR10119,Casey Fox,casey.fox@example.com,Chevrolet Malibu,12/29/2023,1/11/2024,13,Phoenix,San Diego,833.83
+CR10120,Alex Foster,alex.foster@mail.com,Kia Forte,11/18/2023,11/25/2023,7,San Diego,Houston,383.87
+CR10121,Jordan Shaw,jordan.shaw@example.com,BMW 3 Series,12/28/2023,1/11/2024,14,San Francisco,New York,467.19
+CR10122,Quinn Ellis,quinn.ellis@test.org,Audi A4,12/20/2023,1/3/2024,14,San Diego,Los Angeles,1131.25
+CR10123,Taylor Hunter,taylor.hunter@mail.com,Ford Focus,12/15/2023,12/23/2023,8,San Diego,Chicago,594.34
+CR10124,Morgan Ellis,morgan.ellis@example.com,Hyundai Elantra,7/30/2023,8/4/2023,5,Los Angeles,Houston,317.57
+CR10125,Quinn Hunter,quinn.hunter@example.com,Hyundai Elantra,7/6/2023,7/8/2023,2,San Diego,San Francisco,61.53
+CR10126,Cameron Lane,cameron.lane@sample.net,Hyundai Elantra,10/8/2023,10/15/2023,7,New York,New York,284.76
+CR10127,Taylor Foster,taylor.foster@test.org,Honda Civic,10/30/2023,11/1/2023,2,Los Angeles,New York,107.23
+CR10128,Quinn Blake,quinn.blake@sample.net,Chevrolet Malibu,8/9/2023,8/13/2023,4,Chicago,San Francisco,288.97
+CR10129,Casey Lane,casey.lane@mail.com,Honda Civic,2/12/2023,2/17/2023,5,Phoenix,New York,320.27
+CR10130,Cameron Lane,cameron.lane@example.com,BMW 3 Series,1/24/2023,2/1/2023,8,San Francisco,Chicago,556.85
+CR10131,Jamie Rowe,jamie.rowe@test.org,BMW 3 Series,12/28/2023,1/6/2024,9,Chicago,Dallas,286.75
+CR10132,Cameron Foster,cameron.foster@test.org,Honda Civic,4/7/2023,4/9/2023,2,San Diego,New York,106.13
+CR10133,Skylar Foster,skylar.foster@test.org,Toyota Corolla,10/28/2023,11/4/2023,7,Chicago,San Francisco,393.35
+CR10134,Taylor Foster,taylor.foster@example.com,Ford Focus,8/21/2023,8/31/2023,10,San Francisco,Dallas,741.73
+CR10135,Drew Brooks,drew.brooks@example.com,Hyundai Elantra,5/7/2023,5/21/2023,14,New York,San Francisco,460.69
+CR10136,Skylar Rowe,skylar.rowe@test.org,BMW 3 Series,12/9/2023,12/19/2023,10,Houston,Dallas,941.92
+CR10137,Jordan Reed,jordan.reed@mail.com,BMW 3 Series,1/23/2023,1/26/2023,3,Houston,Dallas,230.17
+CR10138,Quinn Lane,quinn.lane@test.org,Kia Forte,12/2/2023,12/7/2023,5,Phoenix,San Diego,407.65
+CR10139,Drew Ellis,drew.ellis@sample.net,BMW 3 Series,5/5/2023,5/15/2023,10,Chicago,Phoenix,507.04
+CR10140,Cameron Ellis,cameron.ellis@sample.net,Audi A4,1/1/2024,1/4/2024,3,Chicago,San Diego,196.37
+CR10141,Alex Brooks,alex.brooks@example.com,Chevrolet Malibu,7/7/2023,7/13/2023,6,Houston,Phoenix,304.18
+CR10142,Jamie Lane,jamie.lane@test.org,Hyundai Elantra,11/8/2023,11/15/2023,7,Chicago,Houston,630.77
+CR10143,Morgan Fox,morgan.fox@test.org,Toyota Corolla,5/23/2023,5/25/2023,2,San Francisco,Chicago,149.57
+CR10144,Skylar Brooks,skylar.brooks@sample.net,Chevrolet Malibu,12/28/2023,1/4/2024,7,San Diego,Chicago,571.31
+CR10145,Alex Blake,alex.blake@sample.net,Kia Forte,6/11/2023,6/14/2023,3,Houston,Dallas,213.9
+CR10146,Alex Ellis,alex.ellis@test.org,BMW 3 Series,7/29/2023,8/2/2023,4,San Diego,Dallas,317.47
+CR10147,Taylor Brooks,taylor.brooks@mail.com,BMW 3 Series,1/26/2023,1/30/2023,4,Phoenix,New York,177.76
+CR10148,Quinn Blake,quinn.blake@mail.com,Audi A4,11/25/2023,12/4/2023,9,San Francisco,Dallas,656.3
+CR10149,Morgan Lane,morgan.lane@mail.com,Audi A4,12/21/2023,1/2/2024,12,Los Angeles,San Diego,508.27
+CR10150,Morgan Reed,morgan.reed@example.com,BMW 3 Series,1/4/2023,1/17/2023,13,Phoenix,Los Angeles,659.16
+CR10151,Jordan Shaw,jordan.shaw@mail.com,Kia Forte,8/25/2023,8/28/2023,3,Phoenix,Phoenix,114.24
+CR10152,Taylor Shaw,taylor.shaw@example.com,Honda Civic,7/14/2023,7/22/2023,8,Houston,Los Angeles,415.93
+CR10153,Jordan Fox,jordan.fox@sample.net,Chevrolet Malibu,2/26/2023,3/2/2023,4,Houston,Dallas,274.02
+CR10154,Morgan Shaw,morgan.shaw@mail.com,Honda Civic,12/9/2023,12/20/2023,11,Dallas,Los Angeles,913.16
+CR10155,Quinn Fox,quinn.fox@sample.net,Ford Focus,10/26/2023,11/7/2023,12,Houston,Los Angeles,900.87
+CR10156,Cameron Shaw,cameron.shaw@mail.com,BMW 3 Series,4/9/2023,4/17/2023,8,New York,San Francisco,455.14
+CR10157,Cameron Brooks,cameron.brooks@mail.com,Chevrolet Malibu,12/11/2023,12/17/2023,6,Los Angeles,Houston,442.26
+CR10158,Taylor Blake,taylor.blake@example.com,Honda Civic,12/10/2023,12/11/2023,1,Dallas,San Diego,69.33
+CR10159,Casey Fox,casey.fox@example.com,Hyundai Elantra,7/19/2023,7/21/2023,2,Chicago,Chicago,192.53
+CR10160,Jordan Blake,jordan.blake@example.com,Audi A4,11/26/2023,12/7/2023,11,San Francisco,Houston,826.81
+CR10161,Jamie Ellis,jamie.ellis@test.org,Toyota Corolla,1/29/2023,2/12/2023,14,Houston,San Diego,620.94
+CR10162,Quinn Blake,quinn.blake@sample.net,Toyota Corolla,3/22/2023,3/26/2023,4,San Francisco,Phoenix,308.68
+CR10163,Casey Blake,casey.blake@test.org,Audi A4,1/16/2023,1/30/2023,14,Houston,Dallas,513.48
+CR10164,Jamie Reed,jamie.reed@mail.com,Audi A4,12/27/2023,1/5/2024,9,Los Angeles,Chicago,793.32
+CR10165,Alex Reed,alex.reed@sample.net,Chevrolet Malibu,1/27/2023,2/4/2023,8,San Diego,Houston,492.59
+CR10166,Jamie Fox,jamie.fox@example.com,Chevrolet Malibu,8/5/2023,8/11/2023,6,San Francisco,Dallas,262.36
+CR10167,Jamie Reed,jamie.reed@sample.net,Honda Civic,7/5/2023,7/17/2023,12,San Francisco,New York,1118.91
+CR10168,Casey Lane,casey.lane@mail.com,Toyota Corolla,4/4/2023,4/9/2023,5,New York,Los Angeles,210.6
+CR10169,Taylor Lane,taylor.lane@mail.com,Toyota Corolla,9/16/2023,9/23/2023,7,Dallas,Phoenix,237.45
+CR10170,Casey Blake,casey.blake@mail.com,BMW 3 Series,8/26/2023,9/1/2023,6,Los Angeles,Dallas,449.7
+CR10171,Jordan Reed,jordan.reed@example.com,Toyota Corolla,3/26/2023,4/9/2023,14,Phoenix,San Francisco,1048.65
+CR10172,Cameron Ellis,cameron.ellis@test.org,Hyundai Elantra,12/23/2023,12/31/2023,8,Houston,Houston,795.17
+CR10173,Taylor Blake,taylor.blake@sample.net,BMW 3 Series,5/12/2023,5/13/2023,1,Houston,Chicago,36.96
+CR10174,Jordan Ellis,jordan.ellis@mail.com,Chevrolet Malibu,10/28/2023,11/6/2023,9,Houston,San Francisco,558.52
+CR10175,Taylor Lane,taylor.lane@test.org,BMW 3 Series,4/8/2023,4/13/2023,5,Los Angeles,Houston,422.83
+CR10176,Casey Blake,casey.blake@example.com,Audi A4,6/24/2023,7/3/2023,9,Chicago,Dallas,829.1
+CR10177,Jordan Fox,jordan.fox@test.org,Honda Civic,3/27/2023,3/29/2023,2,Chicago,Houston,188.48
+CR10178,Jordan Lane,jordan.lane@mail.com,Ford Focus,10/2/2023,10/16/2023,14,San Francisco,Los Angeles,838.79
+CR10179,Alex Fox,alex.fox@example.com,Ford Focus,1/24/2023,1/29/2023,5,Dallas,San Francisco,487.39
+CR10180,Morgan Foster,morgan.foster@example.com,Audi A4,6/20/2023,6/27/2023,7,Phoenix,San Francisco,238.84
+CR10181,Quinn Rowe,quinn.rowe@test.org,BMW 3 Series,4/18/2023,4/29/2023,11,Chicago,Los Angeles,844.3
+CR10182,Alex Blake,alex.blake@test.org,Honda Civic,4/17/2023,4/19/2023,2,Chicago,Dallas,102.88
+CR10183,Drew Blake,drew.blake@example.com,Ford Focus,11/2/2023,11/8/2023,6,Los Angeles,San Francisco,499.35
+CR10184,Quinn Ellis,quinn.ellis@example.com,Ford Focus,6/11/2023,6/21/2023,10,Chicago,Houston,409.85
+CR10185,Skylar Fox,skylar.fox@example.com,Ford Focus,5/19/2023,5/27/2023,8,Dallas,San Diego,517.96
+CR10186,Cameron Reed,cameron.reed@test.org,Toyota Corolla,2/12/2023,2/19/2023,7,San Diego,San Diego,414.14
+CR10187,Skylar Brooks,skylar.brooks@example.com,Audi A4,5/16/2023,5/21/2023,5,Chicago,Los Angeles,262.56
+CR10188,Jamie Shaw,jamie.shaw@test.org,Chevrolet Malibu,7/8/2023,7/10/2023,2,Los Angeles,Phoenix,195.46
+CR10189,Taylor Lane,taylor.lane@mail.com,Ford Focus,3/28/2023,3/31/2023,3,Dallas,Chicago,202.27
+CR10190,Morgan Shaw,morgan.shaw@sample.net,Toyota Corolla,1/25/2023,2/8/2023,14,San Diego,Houston,1163.74
+CR10191,Quinn Rowe,quinn.rowe@test.org,Toyota Corolla,7/7/2023,7/12/2023,5,New York,Dallas,474.55
+CR10192,Casey Shaw,casey.shaw@sample.net,Honda Civic,10/2/2023,10/8/2023,6,Phoenix,Los Angeles,215.26
+CR10193,Jordan Foster,jordan.foster@sample.net,Audi A4,7/19/2023,7/30/2023,11,San Diego,Houston,490.6
+CR10194,Quinn Lane,quinn.lane@example.com,BMW 3 Series,3/24/2023,4/5/2023,12,San Francisco,San Diego,1103.33
+CR10195,Taylor Shaw,taylor.shaw@example.com,Honda Civic,7/1/2023,7/9/2023,8,Chicago,New York,285.83
+CR10196,Cameron Fox,cameron.fox@mail.com,Hyundai Elantra,3/28/2023,3/29/2023,1,Phoenix,Houston,89.02
+CR10197,Skylar Brooks,skylar.brooks@mail.com,Ford Focus,7/23/2023,8/5/2023,13,Los Angeles,Houston,1015.38
+CR10198,Jamie Fox,jamie.fox@mail.com,Ford Focus,6/29/2023,7/9/2023,10,Houston,Los Angeles,640.96
+CR10199,Cameron Hunter,cameron.hunter@example.com,Audi A4,12/6/2023,12/14/2023,8,Chicago,Chicago,769.4
+CR10200,Cameron Lane,cameron.lane@example.com,Chevrolet Malibu,2/8/2023,2/11/2023,3,Los Angeles,Chicago,179.46
+CR10201,Cameron Brooks,cameron.brooks@sample.net,Ford Focus,7/25/2023,7/27/2023,2,Los Angeles,Dallas,60.96
+CR10202,Skylar Ellis,skylar.ellis@mail.com,Ford Focus,1/20/2023,1/27/2023,7,San Francisco,San Francisco,583.56
+CR10203,Jamie Hunter,jamie.hunter@example.com,Hyundai Elantra,10/28/2023,11/4/2023,7,San Francisco,Phoenix,251.69
+CR10204,Morgan Rowe,morgan.rowe@example.com,Hyundai Elantra,5/7/2023,5/9/2023,2,San Diego,Los Angeles,62.92
+CR10205,Morgan Brooks,morgan.brooks@test.org,Kia Forte,4/24/2023,5/8/2023,14,Dallas,Los Angeles,437.29
+CR10206,Cameron Lane,cameron.lane@test.org,Honda Civic,10/30/2023,11/11/2023,12,Chicago,Dallas,371.9
+CR10207,Jamie Hunter,jamie.hunter@example.com,Toyota Corolla,11/19/2023,11/29/2023,10,Chicago,San Francisco,700.77
+CR10208,Jamie Hunter,jamie.hunter@sample.net,BMW 3 Series,1/17/2023,1/26/2023,9,San Francisco,Los Angeles,796.99
+CR10209,Drew Foster,drew.foster@mail.com,Hyundai Elantra,9/23/2023,9/24/2023,1,New York,Houston,42.16
+CR10210,Jamie Shaw,jamie.shaw@example.com,BMW 3 Series,7/12/2023,7/16/2023,4,Houston,Los Angeles,376.7
+CR10211,Taylor Blake,taylor.blake@example.com,Toyota Corolla,10/31/2023,11/12/2023,12,New York,San Diego,946.61
+CR10212,Quinn Foster,quinn.foster@test.org,Kia Forte,11/2/2023,11/12/2023,10,Los Angeles,San Diego,444.8
+CR10213,Skylar Rowe,skylar.rowe@example.com,Honda Civic,9/22/2023,10/4/2023,12,Houston,San Diego,783.46
+CR10214,Jamie Fox,jamie.fox@mail.com,Audi A4,7/19/2023,8/1/2023,13,Dallas,Houston,933.16
+CR10215,Skylar Reed,skylar.reed@sample.net,BMW 3 Series,2/22/2023,2/26/2023,4,Dallas,Dallas,162.35
+CR10216,Drew Lane,drew.lane@test.org,Chevrolet Malibu,11/10/2023,11/14/2023,4,San Diego,Los Angeles,330.58
+CR10217,Taylor Rowe,taylor.rowe@test.org,Ford Focus,3/26/2023,4/9/2023,14,Dallas,Houston,1254.81
+CR10218,Jamie Ellis,jamie.ellis@mail.com,BMW 3 Series,1/16/2023,1/17/2023,1,San Diego,Los Angeles,70.64
+CR10219,Jamie Brooks,jamie.brooks@test.org,Honda Civic,2/14/2023,2/28/2023,14,Los Angeles,Dallas,533.79
+CR10220,Alex Reed,alex.reed@sample.net,Kia Forte,6/11/2023,6/15/2023,4,Phoenix,San Francisco,142.13
+CR10221,Skylar Fox,skylar.fox@mail.com,BMW 3 Series,1/18/2023,1/21/2023,3,New York,New York,201.9
+CR10222,Jamie Brooks,jamie.brooks@example.com,Toyota Corolla,6/19/2023,6/23/2023,4,Phoenix,Phoenix,168.9
+CR10223,Morgan Ellis,morgan.ellis@mail.com,Audi A4,11/23/2023,11/29/2023,6,Phoenix,Los Angeles,337.43
+CR10224,Taylor Hunter,taylor.hunter@test.org,Chevrolet Malibu,1/26/2023,2/4/2023,9,Los Angeles,Los Angeles,486.7
+CR10225,Skylar Brooks,skylar.brooks@example.com,Hyundai Elantra,4/10/2023,4/15/2023,5,San Francisco,Los Angeles,216.73
+CR10226,Morgan Hunter,morgan.hunter@test.org,Honda Civic,11/3/2023,11/11/2023,8,Chicago,Los Angeles,749.38
+CR10227,Taylor Lane,taylor.lane@example.com,Toyota Corolla,2/12/2023,2/19/2023,7,San Diego,Los Angeles,387.53
+CR10228,Jordan Hunter,jordan.hunter@sample.net,Hyundai Elantra,5/4/2023,5/9/2023,5,Houston,San Diego,497.21
+CR10229,Morgan Rowe,morgan.rowe@example.com,Hyundai Elantra,10/9/2023,10/16/2023,7,San Francisco,Phoenix,243
+CR10230,Jordan Hunter,jordan.hunter@mail.com,BMW 3 Series,8/3/2023,8/8/2023,5,Chicago,Chicago,493.11
+CR10231,Skylar Brooks,skylar.brooks@sample.net,Ford Focus,1/17/2023,1/25/2023,8,Dallas,Dallas,797.72
+CR10232,Drew Fox,drew.fox@sample.net,Kia Forte,4/20/2023,5/3/2023,13,Phoenix,Dallas,573.75
+CR10233,Taylor Hunter,taylor.hunter@test.org,Audi A4,12/14/2023,12/18/2023,4,Los Angeles,Dallas,351.85
+CR10234,Jordan Foster,jordan.foster@sample.net,Honda Civic,7/26/2023,8/9/2023,14,Houston,New York,920.62
+CR10235,Jordan Lane,jordan.lane@sample.net,Chevrolet Malibu,5/2/2023,5/9/2023,7,San Diego,San Francisco,681.99
+CR10236,Alex Shaw,alex.shaw@sample.net,Kia Forte,4/10/2023,4/19/2023,9,Dallas,San Francisco,678.88
+CR10237,Alex Lane,alex.lane@mail.com,Chevrolet Malibu,8/29/2023,9/8/2023,10,Los Angeles,Phoenix,548.09
+CR10238,Alex Brooks,alex.brooks@example.com,Hyundai Elantra,3/11/2023,3/17/2023,6,San Diego,New York,378.06
+CR10239,Casey Shaw,casey.shaw@sample.net,Hyundai Elantra,10/30/2023,11/4/2023,5,San Francisco,Dallas,408.85
+CR10240,Cameron Shaw,cameron.shaw@example.com,Toyota Corolla,4/14/2023,4/27/2023,13,Los Angeles,Chicago,1016.25
+CR10241,Jamie Hunter,jamie.hunter@example.com,Toyota Corolla,5/7/2023,5/20/2023,13,Chicago,Houston,400.55
+CR10242,Cameron Shaw,cameron.shaw@sample.net,Ford Focus,5/16/2023,5/17/2023,1,Chicago,San Diego,71.05
+CR10243,Cameron Ellis,cameron.ellis@example.com,Honda Civic,5/3/2023,5/6/2023,3,Phoenix,Chicago,162.24
+CR10244,Taylor Fox,taylor.fox@example.com,Ford Focus,1/12/2023,1/18/2023,6,Los Angeles,San Francisco,196.04
+CR10245,Jordan Shaw,jordan.shaw@sample.net,Toyota Corolla,10/13/2023,10/19/2023,6,Los Angeles,Los Angeles,558.83
+CR10246,Quinn Lane,quinn.lane@sample.net,Ford Focus,12/29/2023,1/11/2024,13,Los Angeles,Chicago,1246.98
+CR10247,Skylar Blake,skylar.blake@test.org,Toyota Corolla,10/12/2023,10/17/2023,5,New York,New York,497.45
+CR10248,Drew Hunter,drew.hunter@sample.net,Ford Focus,4/23/2023,4/26/2023,3,Houston,New York,167.26
+CR10249,Morgan Brooks,morgan.brooks@test.org,Hyundai Elantra,2/8/2023,2/19/2023,11,San Francisco,San Francisco,776.42
+CR10250,Morgan Hunter,morgan.hunter@example.com,Kia Forte,10/9/2023,10/15/2023,6,Chicago,Chicago,502.24
+CR10251,Casey Blake,casey.blake@example.com,Hyundai Elantra,7/30/2023,8/5/2023,6,Chicago,Houston,209.73
+CR10252,Casey Ellis,casey.ellis@test.org,Audi A4,1/20/2023,1/30/2023,10,Chicago,Phoenix,394.14
+CR10253,Cameron Shaw,cameron.shaw@mail.com,Kia Forte,6/6/2023,6/14/2023,8,Houston,New York,414.27
+CR10254,Morgan Fox,morgan.fox@test.org,Audi A4,2/12/2023,2/16/2023,4,San Francisco,Los Angeles,361.67
+CR10255,Casey Shaw,casey.shaw@test.org,Audi A4,11/29/2023,12/13/2023,14,Phoenix,New York,1259.24
+CR10256,Quinn Rowe,quinn.rowe@mail.com,Kia Forte,7/24/2023,8/3/2023,10,Chicago,Houston,995.72
+CR10257,Alex Lane,alex.lane@example.com,BMW 3 Series,7/31/2023,8/4/2023,4,New York,Phoenix,132.36
+CR10258,Jamie Brooks,jamie.brooks@example.com,BMW 3 Series,2/8/2023,2/19/2023,11,Houston,San Francisco,430.91
+CR10259,Skylar Foster,skylar.foster@example.com,Kia Forte,11/6/2023,11/14/2023,8,Los Angeles,Dallas,563.43
+CR10260,Taylor Rowe,taylor.rowe@sample.net,Toyota Corolla,3/17/2023,3/22/2023,5,Dallas,San Diego,202.38
+CR10261,Alex Rowe,alex.rowe@example.com,Audi A4,1/17/2023,1/27/2023,10,Los Angeles,Phoenix,868.17
+CR10262,Skylar Hunter,skylar.hunter@sample.net,Honda Civic,1/6/2023,1/17/2023,11,San Diego,Los Angeles,1060.87
+CR10263,Alex Reed,alex.reed@test.org,Honda Civic,6/30/2023,7/1/2023,1,Chicago,New York,79.02
+CR10264,Jordan Shaw,jordan.shaw@sample.net,Ford Focus,5/19/2023,6/2/2023,14,New York,Chicago,1221.47
+CR10265,Alex Brooks,alex.brooks@example.com,BMW 3 Series,7/3/2023,7/16/2023,13,New York,Dallas,854.06
+CR10266,Quinn Lane,quinn.lane@example.com,Toyota Corolla,12/11/2023,12/16/2023,5,Houston,Los Angeles,362.55
+CR10267,Cameron Reed,cameron.reed@test.org,BMW 3 Series,6/3/2023,6/8/2023,5,Chicago,Chicago,180.88
+CR10268,Drew Rowe,drew.rowe@example.com,Audi A4,6/24/2023,6/25/2023,1,Los Angeles,San Francisco,84.05
+CR10269,Alex Lane,alex.lane@mail.com,BMW 3 Series,7/9/2023,7/22/2023,13,Phoenix,Chicago,880.85
+CR10270,Drew Foster,drew.foster@test.org,Hyundai Elantra,5/3/2023,5/8/2023,5,Chicago,Phoenix,232.02
+CR10271,Morgan Foster,morgan.foster@mail.com,Audi A4,9/9/2023,9/15/2023,6,Phoenix,Phoenix,453.49
+CR10272,Drew Blake,drew.blake@mail.com,Audi A4,6/18/2023,6/29/2023,11,San Francisco,Houston,965.85
+CR10273,Casey Hunter,casey.hunter@mail.com,BMW 3 Series,7/16/2023,7/21/2023,5,Los Angeles,Dallas,454.89
+CR10274,Alex Foster,alex.foster@example.com,Ford Focus,7/19/2023,7/21/2023,2,Dallas,San Francisco,81.36
+CR10275,Morgan Fox,morgan.fox@example.com,Honda Civic,6/13/2023,6/22/2023,9,Dallas,New York,627.43
+CR10276,Drew Hunter,drew.hunter@sample.net,Kia Forte,10/4/2023,10/6/2023,2,Houston,Dallas,194.11
+CR10277,Quinn Foster,quinn.foster@test.org,Hyundai Elantra,6/7/2023,6/21/2023,14,Chicago,New York,1221.84
+CR10278,Jamie Blake,jamie.blake@mail.com,Kia Forte,10/9/2023,10/17/2023,8,San Francisco,Houston,383.88
+CR10279,Quinn Blake,quinn.blake@mail.com,Audi A4,5/23/2023,5/31/2023,8,New York,Phoenix,346.19
+CR10280,Jordan Ellis,jordan.ellis@mail.com,Chevrolet Malibu,4/4/2023,4/17/2023,13,Houston,San Francisco,484.35
+CR10281,Casey Reed,casey.reed@sample.net,Honda Civic,1/17/2023,1/19/2023,2,San Diego,Chicago,129.43
+CR10282,Casey Lane,casey.lane@test.org,BMW 3 Series,9/9/2023,9/18/2023,9,Dallas,Dallas,583.54
+CR10283,Cameron Foster,cameron.foster@test.org,Hyundai Elantra,2/14/2023,2/20/2023,6,San Diego,San Diego,536.3
+CR10284,Alex Lane,alex.lane@sample.net,BMW 3 Series,5/24/2023,6/5/2023,12,Phoenix,Chicago,540.4
+CR10285,Alex Rowe,alex.rowe@test.org,BMW 3 Series,5/21/2023,6/2/2023,12,Dallas,San Diego,823.31
+CR10286,Drew Hunter,drew.hunter@test.org,Honda Civic,4/9/2023,4/18/2023,9,San Francisco,Los Angeles,739.22
+CR10287,Jordan Rowe,jordan.rowe@example.com,Honda Civic,7/25/2023,7/31/2023,6,San Diego,New York,559.84
+CR10288,Cameron Fox,cameron.fox@example.com,Audi A4,6/22/2023,6/27/2023,5,Houston,New York,249.13
+CR10289,Jordan Lane,jordan.lane@mail.com,Audi A4,9/18/2023,9/19/2023,1,Phoenix,Houston,46.23
+CR10290,Skylar Blake,skylar.blake@example.com,Audi A4,4/19/2023,5/3/2023,14,San Francisco,Houston,939.63
+CR10291,Morgan Ellis,morgan.ellis@mail.com,Honda Civic,10/20/2023,10/29/2023,9,San Diego,Houston,435.26
+CR10292,Drew Shaw,drew.shaw@mail.com,Hyundai Elantra,1/2/2023,1/8/2023,6,Phoenix,San Diego,444.66
+CR10293,Jordan Shaw,jordan.shaw@example.com,Chevrolet Malibu,4/28/2023,5/6/2023,8,Dallas,Dallas,615.88
+CR10294,Jamie Rowe,jamie.rowe@test.org,Audi A4,7/9/2023,7/12/2023,3,Phoenix,Phoenix,128.2
+CR10295,Jamie Hunter,jamie.hunter@sample.net,BMW 3 Series,6/22/2023,7/4/2023,12,San Diego,Dallas,748.47
+CR10296,Jamie Ellis,jamie.ellis@mail.com,BMW 3 Series,4/19/2023,4/28/2023,9,San Francisco,Phoenix,400.67
+CR10297,Jamie Brooks,jamie.brooks@test.org,Kia Forte,3/3/2023,3/17/2023,14,Chicago,New York,1108.2
+CR10298,Taylor Hunter,taylor.hunter@example.com,Kia Forte,10/20/2023,10/29/2023,9,Chicago,Phoenix,785.52
+CR10299,Quinn Fox,quinn.fox@test.org,Kia Forte,3/12/2023,3/19/2023,7,San Francisco,San Diego,417.22
+CR10300,Skylar Shaw,skylar.shaw@test.org,Honda Civic,12/19/2023,1/1/2024,13,San Francisco,Houston,879.68
+CR10301,Skylar Fox,skylar.fox@test.org,Hyundai Elantra,2/21/2023,2/25/2023,4,San Francisco,Chicago,229.85
+CR10302,Jamie Shaw,jamie.shaw@test.org,Kia Forte,11/10/2023,11/17/2023,7,Phoenix,San Diego,227.9
+CR10303,Jordan Shaw,jordan.shaw@test.org,Audi A4,1/14/2023,1/20/2023,6,Dallas,Chicago,232.72
+CR10304,Casey Reed,casey.reed@mail.com,Ford Focus,12/4/2023,12/8/2023,4,New York,San Diego,137.1
+CR10305,Morgan Rowe,morgan.rowe@sample.net,Kia Forte,11/2/2023,11/12/2023,10,New York,San Diego,340.6
+CR10306,Casey Brooks,casey.brooks@test.org,Honda Civic,9/4/2023,9/9/2023,5,Houston,Chicago,495.61
+CR10307,Cameron Lane,cameron.lane@test.org,Chevrolet Malibu,3/4/2023,3/9/2023,5,San Diego,Dallas,200.97
+CR10308,Skylar Foster,skylar.foster@test.org,Chevrolet Malibu,5/24/2023,6/3/2023,10,Chicago,San Francisco,698.57
+CR10309,Alex Reed,alex.reed@mail.com,Chevrolet Malibu,8/27/2023,9/8/2023,12,Phoenix,Chicago,1050.89
+CR10310,Taylor Brooks,taylor.brooks@example.com,Chevrolet Malibu,9/28/2023,10/4/2023,6,New York,New York,204.52
+CR10311,Casey Foster,casey.foster@mail.com,Toyota Corolla,8/26/2023,9/2/2023,7,Los Angeles,San Diego,608.56
+CR10312,Morgan Lane,morgan.lane@sample.net,Hyundai Elantra,9/3/2023,9/4/2023,1,Dallas,Chicago,39.32
+CR10313,Jamie Brooks,jamie.brooks@test.org,Honda Civic,7/5/2023,7/10/2023,5,San Francisco,Dallas,187.13
+CR10314,Cameron Brooks,cameron.brooks@mail.com,Toyota Corolla,5/1/2023,5/13/2023,12,Dallas,Phoenix,1055.03
+CR10315,Quinn Shaw,quinn.shaw@test.org,Chevrolet Malibu,3/9/2023,3/18/2023,9,New York,San Francisco,811.71
+CR10316,Jordan Hunter,jordan.hunter@test.org,Kia Forte,8/16/2023,8/29/2023,13,San Diego,San Diego,683.88
+CR10317,Morgan Fox,morgan.fox@mail.com,BMW 3 Series,5/31/2023,6/8/2023,8,Los Angeles,Phoenix,601.23
+CR10318,Drew Ellis,drew.ellis@sample.net,Chevrolet Malibu,2/28/2023,3/14/2023,14,Houston,San Francisco,732.46
+CR10319,Alex Rowe,alex.rowe@sample.net,Ford Focus,11/8/2023,11/9/2023,1,San Diego,Houston,63.64
+CR10320,Casey Shaw,casey.shaw@test.org,Toyota Corolla,7/29/2023,8/9/2023,11,Los Angeles,Chicago,333.09
+CR10321,Jordan Lane,jordan.lane@test.org,Ford Focus,5/18/2023,5/20/2023,2,San Francisco,New York,187.33
+CR10322,Taylor Lane,taylor.lane@example.com,Ford Focus,2/5/2023,2/13/2023,8,Phoenix,Houston,477.06
+CR10323,Quinn Blake,quinn.blake@test.org,Hyundai Elantra,10/1/2023,10/2/2023,1,Los Angeles,Phoenix,41.16
+CR10324,Drew Hunter,drew.hunter@mail.com,Chevrolet Malibu,10/28/2023,11/1/2023,4,New York,Los Angeles,142.61
+CR10325,Alex Blake,alex.blake@test.org,Honda Civic,5/30/2023,6/9/2023,10,San Francisco,Phoenix,481.24
+CR10326,Jamie Foster,jamie.foster@sample.net,Honda Civic,9/10/2023,9/18/2023,8,Houston,Los Angeles,272.4
+CR10327,Skylar Brooks,skylar.brooks@mail.com,BMW 3 Series,5/12/2023,5/13/2023,1,Los Angeles,San Diego,97.32
+CR10328,Jordan Brooks,jordan.brooks@test.org,Audi A4,5/30/2023,6/11/2023,12,San Francisco,Chicago,724.62
+CR10329,Alex Rowe,alex.rowe@sample.net,Toyota Corolla,9/21/2023,10/5/2023,14,Phoenix,Dallas,1343.89
+CR10330,Jamie Hunter,jamie.hunter@test.org,Chevrolet Malibu,10/21/2023,10/23/2023,2,New York,Phoenix,62.4
+CR10331,Jamie Hunter,jamie.hunter@mail.com,Audi A4,9/19/2023,9/30/2023,11,New York,Los Angeles,876.98
+CR10332,Jamie Hunter,jamie.hunter@mail.com,Chevrolet Malibu,7/6/2023,7/14/2023,8,Houston,San Francisco,247.32
+CR10333,Quinn Shaw,quinn.shaw@example.com,Ford Focus,5/13/2023,5/16/2023,3,Dallas,Phoenix,124.32
+CR10334,Drew Blake,drew.blake@example.com,Ford Focus,8/25/2023,8/30/2023,5,San Francisco,Houston,297.54
+CR10335,Jamie Foster,jamie.foster@mail.com,Audi A4,12/6/2023,12/20/2023,14,Dallas,San Diego,1086.74
+CR10336,Jordan Lane,jordan.lane@sample.net,Kia Forte,2/1/2023,2/11/2023,10,Dallas,Los Angeles,770.53
+CR10337,Jordan Shaw,jordan.shaw@mail.com,Chevrolet Malibu,1/17/2023,1/18/2023,1,Phoenix,San Diego,51.75
+CR10338,Morgan Blake,morgan.blake@example.com,BMW 3 Series,11/9/2023,11/15/2023,6,Chicago,Los Angeles,304.57
+CR10339,Drew Reed,drew.reed@sample.net,Chevrolet Malibu,5/8/2023,5/21/2023,13,Dallas,Chicago,486.99
+CR10340,Morgan Blake,morgan.blake@sample.net,Ford Focus,12/26/2023,12/29/2023,3,Phoenix,Los Angeles,153.29
+CR10341,Alex Blake,alex.blake@example.com,Honda Civic,7/10/2023,7/23/2023,13,San Francisco,Houston,976.47
+CR10342,Quinn Ellis,quinn.ellis@sample.net,Audi A4,2/14/2023,2/20/2023,6,New York,Phoenix,505.82
+CR10343,Taylor Foster,taylor.foster@mail.com,Audi A4,5/23/2023,6/3/2023,11,Los Angeles,Los Angeles,631.32
+CR10344,Jamie Reed,jamie.reed@mail.com,Honda Civic,12/15/2023,12/29/2023,14,Los Angeles,New York,567.48
+CR10345,Taylor Rowe,taylor.rowe@test.org,Honda Civic,10/18/2023,10/22/2023,4,Houston,San Francisco,151.22
+CR10346,Jamie Rowe,jamie.rowe@sample.net,Honda Civic,8/12/2023,8/22/2023,10,San Francisco,Phoenix,541.61
+CR10347,Cameron Shaw,cameron.shaw@mail.com,Hyundai Elantra,9/2/2023,9/16/2023,14,Phoenix,San Francisco,1224.48
+CR10348,Jordan Shaw,jordan.shaw@example.com,Hyundai Elantra,1/24/2023,2/2/2023,9,Los Angeles,San Diego,312.42
+CR10349,Jordan Foster,jordan.foster@mail.com,Chevrolet Malibu,5/21/2023,5/29/2023,8,Dallas,San Diego,423.24
+CR10350,Taylor Foster,taylor.foster@example.com,Kia Forte,1/14/2023,1/18/2023,4,Houston,San Diego,183.5
+CR10351,Taylor Brooks,taylor.brooks@test.org,Kia Forte,4/18/2023,4/25/2023,7,Dallas,San Diego,436.3
+CR10352,Jordan Rowe,jordan.rowe@sample.net,Honda Civic,2/1/2023,2/15/2023,14,New York,Houston,499.21
+CR10353,Alex Fox,alex.fox@sample.net,Hyundai Elantra,8/25/2023,8/27/2023,2,Dallas,San Francisco,164.82
+CR10354,Casey Fox,casey.fox@example.com,Ford Focus,11/14/2023,11/16/2023,2,New York,Dallas,184.36
+CR10355,Morgan Reed,morgan.reed@example.com,Kia Forte,7/20/2023,7/25/2023,5,Dallas,Phoenix,174.95
+CR10356,Casey Rowe,casey.rowe@test.org,Kia Forte,1/1/2023,1/9/2023,8,Phoenix,New York,402.08
+CR10357,Morgan Foster,morgan.foster@sample.net,Audi A4,8/23/2023,8/25/2023,2,Chicago,San Diego,190.39
+CR10358,Drew Reed,drew.reed@sample.net,Toyota Corolla,6/1/2023,6/4/2023,3,Dallas,Chicago,164.26
+CR10359,Cameron Rowe,cameron.rowe@example.com,Audi A4,12/9/2023,12/12/2023,3,Houston,San Francisco,96.12
+CR10360,Cameron Ellis,cameron.ellis@example.com,Kia Forte,3/5/2023,3/14/2023,9,San Francisco,Chicago,445.84
+CR10361,Taylor Brooks,taylor.brooks@test.org,Audi A4,3/21/2023,3/23/2023,2,San Diego,Dallas,191.23
+CR10362,Taylor Brooks,taylor.brooks@mail.com,BMW 3 Series,11/20/2023,11/21/2023,1,Houston,New York,82.8
+CR10363,Drew Rowe,drew.rowe@sample.net,BMW 3 Series,11/28/2023,12/11/2023,13,Phoenix,Chicago,1158.92
+CR10364,Jamie Reed,jamie.reed@sample.net,Ford Focus,6/18/2023,6/22/2023,4,San Diego,Dallas,333.42
+CR10365,Quinn Shaw,quinn.shaw@test.org,Audi A4,1/2/2023,1/3/2023,1,San Francisco,Chicago,54.37
+CR10366,Jordan Rowe,jordan.rowe@sample.net,BMW 3 Series,5/7/2023,5/13/2023,6,San Francisco,New York,505.14
+CR10367,Morgan Rowe,morgan.rowe@mail.com,Hyundai Elantra,2/11/2023,2/19/2023,8,New York,San Diego,472.23
+CR10368,Alex Ellis,alex.ellis@test.org,BMW 3 Series,11/19/2023,11/25/2023,6,San Diego,Phoenix,210.85
+CR10369,Jamie Blake,jamie.blake@mail.com,Toyota Corolla,9/21/2023,9/27/2023,6,Houston,San Francisco,318.26
+CR10370,Quinn Rowe,quinn.rowe@sample.net,Chevrolet Malibu,11/28/2023,12/12/2023,14,San Francisco,Chicago,744.2
+CR10371,Morgan Rowe,morgan.rowe@example.com,BMW 3 Series,7/3/2023,7/6/2023,3,San Diego,Chicago,263.95
+CR10372,Jamie Ellis,jamie.ellis@test.org,BMW 3 Series,4/12/2023,4/20/2023,8,Houston,Dallas,736.44
+CR10373,Morgan Blake,morgan.blake@example.com,Ford Focus,8/7/2023,8/19/2023,12,Phoenix,Houston,1191.74
+CR10374,Jamie Reed,jamie.reed@mail.com,Chevrolet Malibu,12/19/2023,12/31/2023,12,San Francisco,New York,568.52
+CR10375,Alex Lane,alex.lane@sample.net,Hyundai Elantra,1/2/2023,1/7/2023,5,Phoenix,New York,387.43
+CR10376,Casey Blake,casey.blake@example.com,Kia Forte,12/16/2023,12/29/2023,13,San Francisco,Houston,1123.41
+CR10377,Quinn Blake,quinn.blake@mail.com,Kia Forte,8/27/2023,9/2/2023,6,Los Angeles,Dallas,439.1
+CR10378,Jordan Fox,jordan.fox@mail.com,Hyundai Elantra,4/26/2023,5/4/2023,8,Los Angeles,Phoenix,763.75
+CR10379,Taylor Hunter,taylor.hunter@test.org,Toyota Corolla,2/2/2023,2/14/2023,12,Dallas,Dallas,951.99
+CR10380,Cameron Ellis,cameron.ellis@test.org,BMW 3 Series,7/1/2023,7/14/2023,13,Dallas,Houston,503.22
+CR10381,Quinn Ellis,quinn.ellis@example.com,Hyundai Elantra,1/23/2023,1/26/2023,3,Los Angeles,Los Angeles,254.62
+CR10382,Quinn Shaw,quinn.shaw@sample.net,Hyundai Elantra,9/30/2023,10/9/2023,9,Houston,Los Angeles,756.47
+CR10383,Cameron Ellis,cameron.ellis@sample.net,Ford Focus,3/16/2023,3/26/2023,10,San Diego,San Diego,789.53
+CR10384,Alex Foster,alex.foster@mail.com,Ford Focus,7/4/2023,7/18/2023,14,San Francisco,San Diego,515.3
+CR10385,Jordan Blake,jordan.blake@test.org,Hyundai Elantra,6/2/2023,6/3/2023,1,Houston,San Francisco,66.18
+CR10386,Jordan Foster,jordan.foster@test.org,Ford Focus,4/30/2023,5/9/2023,9,San Francisco,New York,447.47
+CR10387,Drew Blake,drew.blake@sample.net,Chevrolet Malibu,12/9/2023,12/18/2023,9,Houston,Houston,721.44
+CR10388,Drew Shaw,drew.shaw@mail.com,Audi A4,9/12/2023,9/15/2023,3,San Francisco,Dallas,108.39
+CR10389,Cameron Foster,cameron.foster@test.org,Toyota Corolla,8/5/2023,8/12/2023,7,Houston,New York,457.99
+CR10390,Casey Reed,casey.reed@mail.com,Audi A4,10/25/2023,10/27/2023,2,San Diego,San Diego,172.68
+CR10391,Drew Blake,drew.blake@sample.net,BMW 3 Series,5/3/2023,5/10/2023,7,Chicago,San Diego,396.63
+CR10392,Alex Foster,alex.foster@example.com,Kia Forte,1/21/2023,1/23/2023,2,San Diego,Los Angeles,179.41
+CR10393,Taylor Fox,taylor.fox@example.com,Hyundai Elantra,3/5/2023,3/11/2023,6,Chicago,New York,277.18
+CR10394,Quinn Foster,quinn.foster@example.com,Honda Civic,6/5/2023,6/17/2023,12,Phoenix,Phoenix,974.88
+CR10395,Morgan Rowe,morgan.rowe@example.com,Toyota Corolla,5/27/2023,6/7/2023,11,New York,Houston,557.37
+CR10396,Cameron Reed,cameron.reed@mail.com,Kia Forte,7/31/2023,8/5/2023,5,Chicago,Los Angeles,153.09
+CR10397,Jamie Blake,jamie.blake@test.org,Chevrolet Malibu,2/16/2023,2/28/2023,12,Houston,Los Angeles,812.59
+CR10398,Alex Fox,alex.fox@sample.net,Audi A4,7/19/2023,7/22/2023,3,Dallas,San Francisco,163.86
+CR10399,Jamie Blake,jamie.blake@example.com,Chevrolet Malibu,4/11/2023,4/19/2023,8,Dallas,Dallas,664.79
+CR10400,Casey Reed,casey.reed@test.org,Kia Forte,1/26/2023,2/6/2023,11,New York,Los Angeles,709.46
+CR10401,Quinn Ellis,quinn.ellis@sample.net,Hyundai Elantra,10/17/2023,10/21/2023,4,San Francisco,Dallas,318.23
+CR10402,Cameron Ellis,cameron.ellis@mail.com,BMW 3 Series,5/27/2023,5/28/2023,1,Phoenix,New York,76.52
+CR10403,Skylar Foster,skylar.foster@sample.net,Kia Forte,10/16/2023,10/28/2023,12,Los Angeles,San Francisco,976.08
+CR10404,Skylar Blake,skylar.blake@example.com,BMW 3 Series,7/28/2023,8/1/2023,4,San Diego,Phoenix,264.74
+CR10405,Cameron Blake,cameron.blake@test.org,Chevrolet Malibu,3/9/2023,3/11/2023,2,New York,San Francisco,136.63
+CR10406,Skylar Shaw,skylar.shaw@test.org,Toyota Corolla,1/2/2023,1/13/2023,11,Los Angeles,San Francisco,508.38
+CR10407,Alex Ellis,alex.ellis@mail.com,Audi A4,4/12/2023,4/16/2023,4,Dallas,New York,159.95
+CR10408,Drew Blake,drew.blake@example.com,Toyota Corolla,7/21/2023,7/27/2023,6,Dallas,Phoenix,495.91
+CR10409,Quinn Fox,quinn.fox@mail.com,Audi A4,6/25/2023,7/9/2023,14,Phoenix,Dallas,966.44
+CR10410,Drew Shaw,drew.shaw@sample.net,Audi A4,7/10/2023,7/13/2023,3,New York,San Diego,145.13
+CR10411,Drew Blake,drew.blake@example.com,Kia Forte,7/14/2023,7/17/2023,3,New York,Chicago,175.84
+CR10412,Drew Fox,drew.fox@test.org,Honda Civic,9/4/2023,9/14/2023,10,Phoenix,Houston,307.66
+CR10413,Cameron Hunter,cameron.hunter@test.org,Toyota Corolla,1/14/2023,1/28/2023,14,Houston,Los Angeles,953.01
+CR10414,Jordan Rowe,jordan.rowe@sample.net,Kia Forte,7/29/2023,8/11/2023,13,New York,San Francisco,543.99
+CR10415,Morgan Lane,morgan.lane@example.com,Ford Focus,1/3/2023,1/12/2023,9,Los Angeles,San Diego,819.45
+CR10416,Drew Foster,drew.foster@test.org,Toyota Corolla,4/14/2023,4/17/2023,3,Los Angeles,New York,216.05
+CR10417,Jordan Lane,jordan.lane@sample.net,Hyundai Elantra,8/16/2023,8/24/2023,8,San Diego,Houston,414.8
+CR10418,Casey Ellis,casey.ellis@mail.com,Audi A4,7/9/2023,7/15/2023,6,San Diego,Houston,270.3
+CR10419,Drew Hunter,drew.hunter@example.com,Toyota Corolla,10/21/2023,10/24/2023,3,Houston,Phoenix,234.03
+CR10420,Jordan Fox,jordan.fox@test.org,Toyota Corolla,2/6/2023,2/14/2023,8,New York,Dallas,659.1
+CR10421,Taylor Reed,taylor.reed@mail.com,Honda Civic,7/16/2023,7/20/2023,4,New York,Dallas,165.63
+CR10422,Cameron Ellis,cameron.ellis@mail.com,BMW 3 Series,7/30/2023,8/10/2023,11,Houston,New York,669.24
+CR10423,Drew Foster,drew.foster@sample.net,Toyota Corolla,1/8/2023,1/13/2023,5,Los Angeles,Houston,376.36
+CR10424,Skylar Fox,skylar.fox@example.com,BMW 3 Series,5/13/2023,5/23/2023,10,New York,Houston,575.37
+CR10425,Morgan Hunter,morgan.hunter@example.com,Chevrolet Malibu,4/3/2023,4/5/2023,2,Houston,Chicago,199.34
+CR10426,Casey Foster,casey.foster@sample.net,Toyota Corolla,6/21/2023,6/27/2023,6,Chicago,San Diego,482.01
+CR10427,Morgan Ellis,morgan.ellis@mail.com,Kia Forte,3/13/2023,3/27/2023,14,New York,Dallas,634.6
+CR10428,Quinn Reed,quinn.reed@mail.com,Honda Civic,12/29/2023,1/6/2024,8,Dallas,San Diego,645.47
+CR10429,Morgan Blake,morgan.blake@test.org,Toyota Corolla,8/17/2023,8/22/2023,5,San Diego,San Francisco,388.05
+CR10430,Cameron Reed,cameron.reed@test.org,Kia Forte,11/7/2023,11/13/2023,6,Chicago,San Diego,564.85
+CR10431,Drew Hunter,drew.hunter@mail.com,Honda Civic,9/28/2023,10/10/2023,12,San Diego,San Francisco,1035.52
+CR10432,Alex Reed,alex.reed@mail.com,Honda Civic,1/3/2023,1/17/2023,14,Chicago,New York,533.54
+CR10433,Quinn Reed,quinn.reed@mail.com,Chevrolet Malibu,1/16/2023,1/20/2023,4,Phoenix,Houston,211.33
+CR10434,Jordan Reed,jordan.reed@sample.net,Hyundai Elantra,8/15/2023,8/29/2023,14,New York,Phoenix,1170.88
+CR10435,Skylar Reed,skylar.reed@sample.net,Honda Civic,8/20/2023,8/21/2023,1,Houston,Dallas,87.83
+CR10436,Jordan Blake,jordan.blake@mail.com,Ford Focus,7/22/2023,8/1/2023,10,Phoenix,San Diego,973
+CR10437,Casey Brooks,casey.brooks@mail.com,BMW 3 Series,10/25/2023,11/7/2023,13,Houston,New York,582.6
+CR10438,Alex Blake,alex.blake@mail.com,Audi A4,9/10/2023,9/17/2023,7,Houston,Dallas,641.64
+CR10439,Jordan Rowe,jordan.rowe@mail.com,BMW 3 Series,6/15/2023,6/25/2023,10,Chicago,Dallas,774.55
+CR10440,Skylar Lane,skylar.lane@example.com,Honda Civic,3/11/2023,3/16/2023,5,San Francisco,New York,319.17
+CR10441,Alex Lane,alex.lane@example.com,Toyota Corolla,2/28/2023,3/13/2023,13,Houston,San Diego,926.87
+CR10442,Casey Foster,casey.foster@example.com,Honda Civic,10/18/2023,10/20/2023,2,Dallas,Dallas,62.42
+CR10443,Skylar Fox,skylar.fox@mail.com,Audi A4,12/12/2023,12/13/2023,1,Houston,Chicago,53.75
+CR10444,Taylor Shaw,taylor.shaw@sample.net,Ford Focus,10/24/2023,10/29/2023,5,Dallas,Los Angeles,417.56
+CR10445,Jordan Lane,jordan.lane@example.com,Kia Forte,10/31/2023,11/6/2023,6,San Diego,Houston,281.22
+CR10446,Casey Ellis,casey.ellis@example.com,Chevrolet Malibu,10/28/2023,11/8/2023,11,Houston,Chicago,510.33
+CR10447,Casey Fox,casey.fox@example.com,Ford Focus,4/20/2023,5/1/2023,11,Dallas,Houston,426.8
+CR10448,Quinn Fox,quinn.fox@sample.net,Kia Forte,8/30/2023,9/4/2023,5,Dallas,Houston,251.98
+CR10449,Cameron Fox,cameron.fox@example.com,Toyota Corolla,12/9/2023,12/13/2023,4,San Francisco,Chicago,263.78
+CR10450,Morgan Fox,morgan.fox@example.com,Ford Focus,1/24/2023,1/30/2023,6,New York,Dallas,519.44
+CR10451,Jamie Blake,jamie.blake@test.org,Audi A4,9/22/2023,9/30/2023,8,Houston,New York,465.15
+CR10452,Quinn Foster,quinn.foster@example.com,BMW 3 Series,7/21/2023,7/31/2023,10,San Diego,Houston,430.21
+CR10453,Casey Fox,casey.fox@test.org,Toyota Corolla,12/13/2023,12/18/2023,5,Chicago,San Francisco,425.64
+CR10454,Jamie Hunter,jamie.hunter@example.com,Toyota Corolla,8/9/2023,8/23/2023,14,San Francisco,Dallas,1021.56
+CR10455,Skylar Fox,skylar.fox@mail.com,Ford Focus,12/15/2023,12/27/2023,12,San Diego,New York,700.57
+CR10456,Jamie Brooks,jamie.brooks@mail.com,Honda Civic,9/18/2023,9/25/2023,7,Los Angeles,Houston,280.43
+CR10457,Skylar Shaw,skylar.shaw@sample.net,Hyundai Elantra,8/8/2023,8/10/2023,2,Phoenix,San Diego,71.16
+CR10458,Jordan Brooks,jordan.brooks@sample.net,Chevrolet Malibu,8/8/2023,8/11/2023,3,Phoenix,Houston,228.31
+CR10459,Taylor Rowe,taylor.rowe@sample.net,Ford Focus,10/8/2023,10/22/2023,14,San Diego,San Francisco,913.32
+CR10460,Jamie Ellis,jamie.ellis@sample.net,Toyota Corolla,2/10/2023,2/14/2023,4,Dallas,Chicago,307.74
+CR10461,Cameron Shaw,cameron.shaw@sample.net,Audi A4,7/14/2023,7/15/2023,1,Chicago,Phoenix,51.72
+CR10462,Skylar Brooks,skylar.brooks@sample.net,Hyundai Elantra,2/25/2023,3/4/2023,7,San Francisco,Chicago,632.95
+CR10463,Quinn Hunter,quinn.hunter@mail.com,Audi A4,9/3/2023,9/15/2023,12,San Francisco,Houston,649.33
+CR10464,Skylar Hunter,skylar.hunter@example.com,Audi A4,5/28/2023,6/4/2023,7,Dallas,Los Angeles,570.08
+CR10465,Jordan Shaw,jordan.shaw@sample.net,Kia Forte,7/11/2023,7/15/2023,4,Chicago,Houston,371.86
+CR10466,Quinn Rowe,quinn.rowe@test.org,Chevrolet Malibu,12/28/2023,1/4/2024,7,Los Angeles,San Francisco,319.7
+CR10467,Drew Reed,drew.reed@sample.net,Toyota Corolla,12/17/2023,12/26/2023,9,Chicago,Dallas,815.64
+CR10468,Skylar Lane,skylar.lane@example.com,Kia Forte,10/31/2023,11/3/2023,3,Phoenix,Chicago,155.64
+CR10469,Cameron Ellis,cameron.ellis@sample.net,Hyundai Elantra,8/17/2023,8/28/2023,11,Los Angeles,Dallas,761.44
+CR10470,Morgan Rowe,morgan.rowe@example.com,Kia Forte,2/17/2023,2/26/2023,9,Dallas,Los Angeles,791.55
+CR10471,Alex Fox,alex.fox@sample.net,BMW 3 Series,7/1/2023,7/5/2023,4,Los Angeles,Phoenix,183.63
+CR10472,Alex Blake,alex.blake@mail.com,Toyota Corolla,5/24/2023,5/31/2023,7,San Francisco,New York,523.71
+CR10473,Casey Shaw,casey.shaw@example.com,Kia Forte,8/7/2023,8/18/2023,11,Dallas,San Francisco,1014.62
+CR10474,Jordan Rowe,jordan.rowe@sample.net,Kia Forte,3/6/2023,3/19/2023,13,San Diego,New York,933.64
+CR10475,Jordan Ellis,jordan.ellis@example.com,BMW 3 Series,3/2/2023,3/10/2023,8,San Francisco,Chicago,684.92
+CR10476,Drew Reed,drew.reed@test.org,Audi A4,3/27/2023,3/30/2023,3,Los Angeles,San Francisco,149.19
+CR10477,Skylar Fox,skylar.fox@mail.com,Honda Civic,9/26/2023,10/7/2023,11,San Diego,Chicago,712.33
+CR10478,Alex Lane,alex.lane@example.com,Hyundai Elantra,10/16/2023,10/27/2023,11,Houston,San Francisco,913.78
+CR10479,Quinn Lane,quinn.lane@example.com,BMW 3 Series,11/2/2023,11/16/2023,14,Chicago,Los Angeles,932.57
+CR10480,Casey Lane,casey.lane@example.com,Ford Focus,2/6/2023,2/16/2023,10,San Francisco,Houston,807.59
+CR10481,Cameron Fox,cameron.fox@test.org,Audi A4,1/9/2023,1/10/2023,1,New York,San Diego,96.87
+CR10482,Drew Foster,drew.foster@test.org,Chevrolet Malibu,4/24/2023,5/4/2023,10,Phoenix,Dallas,518.79
+CR10483,Alex Blake,alex.blake@example.com,Audi A4,2/16/2023,2/21/2023,5,Phoenix,Dallas,153.16
+CR10484,Quinn Lane,quinn.lane@sample.net,Audi A4,3/10/2023,3/18/2023,8,New York,Los Angeles,776.23
+CR10485,Taylor Ellis,taylor.ellis@example.com,Toyota Corolla,12/2/2023,12/14/2023,12,New York,San Francisco,960.64
+CR10486,Drew Brooks,drew.brooks@mail.com,Kia Forte,12/19/2023,12/23/2023,4,Phoenix,San Francisco,156.15
+CR10487,Drew Ellis,drew.ellis@mail.com,Ford Focus,12/8/2023,12/20/2023,12,Dallas,New York,562.74
+CR10488,Quinn Lane,quinn.lane@example.com,Hyundai Elantra,4/15/2023,4/27/2023,12,Phoenix,Phoenix,1084.14
+CR10489,Skylar Lane,skylar.lane@example.com,BMW 3 Series,1/23/2023,2/4/2023,12,Houston,Phoenix,448.4
+CR10490,Alex Reed,alex.reed@sample.net,Honda Civic,3/22/2023,3/29/2023,7,New York,Chicago,322.84
+CR10491,Cameron Lane,cameron.lane@sample.net,Toyota Corolla,9/8/2023,9/21/2023,13,Dallas,New York,477.78
+CR10492,Cameron Foster,cameron.foster@sample.net,Audi A4,1/10/2023,1/21/2023,11,San Diego,Los Angeles,943.75
+CR10493,Jordan Hunter,jordan.hunter@mail.com,BMW 3 Series,11/29/2023,12/12/2023,13,Dallas,San Diego,1195.76
+CR10494,Morgan Foster,morgan.foster@example.com,Ford Focus,8/7/2023,8/15/2023,8,Dallas,Houston,509.2
+CR10495,Cameron Rowe,cameron.rowe@example.com,Kia Forte,9/30/2023,10/10/2023,10,Dallas,Phoenix,655.2
+CR10496,Skylar Hunter,skylar.hunter@test.org,Honda Civic,12/25/2023,1/7/2024,13,Los Angeles,San Francisco,1030.1
+CR10497,Jordan Ellis,jordan.ellis@sample.net,Kia Forte,5/27/2023,5/30/2023,3,Los Angeles,Dallas,263.21
+CR10498,Quinn Blake,quinn.blake@mail.com,Ford Focus,12/15/2023,12/16/2023,1,Dallas,New York,67.24
+CR10499,Cameron Rowe,cameron.rowe@sample.net,BMW 3 Series,1/31/2023,2/8/2023,8,San Diego,San Francisco,497.24
